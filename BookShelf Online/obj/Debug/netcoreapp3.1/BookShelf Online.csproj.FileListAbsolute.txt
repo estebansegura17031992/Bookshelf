@@ -1,0 +1,37 @@
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.exe
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.deps.json
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.runtimeconfig.json
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.runtimeconfig.dev.json
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.dll
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.pdb
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.Views.dll
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\bin\Debug\netcoreapp3.1\BookShelf Online.Views.pdb
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.csprojAssemblyReference.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.AssemblyInfoInputs.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.AssemblyInfo.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.csproj.CoreCompileInputs.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.RazorAssemblyInfo.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.RazorAssemblyInfo.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\staticwebassets\BookShelf Online.StaticWebAssets.Manifest.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\staticwebassets\BookShelf Online.StaticWebAssets.xml
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookShelf Online.styles.css
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.TagHelpers.input.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.TagHelpers.output.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.RazorCoreGenerate.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.RazorTargetAssemblyInfo.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.RazorTargetAssemblyInfo.cs
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.Views.pdb
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.dll
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.pdb
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.genruntimeconfig.cache
+C:\Users\esteb\Documents\Blog\BookShelf Online\BookShelf Online\obj\Debug\netcoreapp3.1\BookShelf Online.csproj.CopyComplete
